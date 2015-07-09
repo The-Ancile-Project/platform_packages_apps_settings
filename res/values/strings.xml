@@ -6059,6 +6059,10 @@
    <string name="slot_number">(Slot<xliff:g id="slot_num">%1$d</xliff:g>)</string>
    
    <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
-   <string name="supersu_title">SuperSU</string
+   <string name="supersu_title">SuperSU</string>
+   
+   <!-- BitSyko Layers -->
+   <string name="bitsyko_layers">Layers</string>
+
 
 </resources>
