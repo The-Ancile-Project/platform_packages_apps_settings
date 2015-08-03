@@ -89,7 +89,7 @@
                 android:id="@+id/display_settings"
                 android:title="@string/display_settings"
                 android:fragment="com.android.settings.DisplaySettings"
-                android:icon="@drawable/ic_settings_display"
+                android:icon="@drawable/ic_settings_display_am"
                 />
 
         <!-- Notifications -->
@@ -137,7 +137,7 @@
                 android:id="@+id/nfc_payment_settings"
                 android:title="@string/nfc_payment_settings_title"
                 android:fragment="com.android.settings.nfc.PaymentSettings"
-                android:icon="@drawable/ic_settings_nfc_payment"
+                android:icon="@drawable/ic_settings_nfc_payment_am"
                 />
 
         <!-- Manufacturer hook -->
